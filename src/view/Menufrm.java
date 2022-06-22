@@ -33,5 +33,5 @@ public class Menufrm extends JFrame {
         JLabel lblTitle = new JLabel("Menu");
         pnlNorth.add(lblTitle);
     }
-    
+
 }
