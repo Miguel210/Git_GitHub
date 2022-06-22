@@ -22,7 +22,7 @@ public class Menufrm extends JFrame {
     }
     
     public void panels(){
-        pnlNorth.setBackground(Color.RED);
+        pnlNorth.setBackground(Color.gray);
         pnlNorth.setPreferredSize(new Dimension(50,80));
         this.add(pnlNorth,BorderLayout.NORTH);
     }
