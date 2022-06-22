@@ -14,7 +14,7 @@ public class Menufrm extends JFrame {
     JPanel pnlNorth = new JPanel();
     
     public Menufrm() {
-        this.setTitle("Hola");
+        this.setTitle("MENU PRINCIPAL");
         this.setLayout(new BorderLayout());
         this.setSize(500, 500);
         this.setVisible(true);
