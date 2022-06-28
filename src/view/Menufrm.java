@@ -20,9 +20,9 @@ public class Menufrm extends JFrame {
         this.setVisible(true);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
-        panels();
-        head();
         
+        head();
+        panels();
     }
     
     public void panels(){
